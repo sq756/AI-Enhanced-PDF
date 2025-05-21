@@ -1,0 +1,10 @@
+numpy>=1.21.0
+diffpy.structure>=3.0.0
+diffpy.srfit>=3.0.0
+PyQt5>=5.15.0
+matplotlib>=3.4.0
+napari>=0.4.12
+torch>=1.9.0
+scipy>=1.7.0
+ase>=3.22.0  # Optional: for additional structure handling
+pymatgen>=2022.0.0  # Optional: for additional structure handling
